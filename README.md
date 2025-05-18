@@ -45,3 +45,33 @@ O formulário foi integrado com o [FormSubmit](https://formsubmit.co/), permitin
 
 ```html
 <form action="https://formsubmit.co/seuemail@exemplo.com" method="POST">
+```
+
+---
+
+## 📁 Como rodar o projeto
+**1. Clone o repositório:**
+git clone https://github.com/seuusuario/arena-saude-lazer.git
+
+**2.Abra o arquivo index.html em seu navegador.**
+
+---
+
+## 📸 Imagens e Ilustrações
+Todas as imagens utilizadas pertencem à empresa ou são livres para uso.
+
+---
+
+## 📌 Status do Projeto
+✅ Concluído — novas melhorias e seções podem ser adicionadas no futuro.
+
+---
+
+## 🤝 Contribuições
+Este projeto foi feito para fins de aprendizado e prática. Sugestões e contribuições são sempre bem-vindas!
+
+---
+
+## 🧠 Autores
+> *Desenvolvido por Alessandra Brenda Santos | Gabriel Silva | Kamilly Seara*
+
