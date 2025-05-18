@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+/* Variavéis */
+:root {
+/* FotSize e estilo */
+/* O tamanho da fonte do HTML como 62.5%, o 1rem = 10px */
+
+  --body-font: 'Poppins', sans-serif;
+
+  --g-font: 4rem;
+  --h1-font: 3.6rem;
+  --h2-font: 2.4rem;
+  --h3-font: 2rem;
+  --h4-font: 1.8rem;
+  --normal-font: 1.6rem;
+  --p-font: 1.4rem;
+  --pp-font: 1.3rem;
+
+  /* Font Weight */
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semi-bold: 600;
+
+  /* Variáveis de cores */
+  --cor-primaria: #191970;
+  --cor-primaria-hover: #4646c7;
+  --cor-azul-claro: #87CEEB;
+  --cor-azul-medio: #4682B4;
+  --cor-text: #333;
+  --cor-text-light: #888682;
+  --border-color: #484848;
+  --cor-branca: #FFF;
+  --section-bg: #5F9EA0;
+
+  /* z-index */
+  --z-overlay: 10;
+  --z-fixed: 100;
+
+  /* transição */
+  --tran-0-2: 0.2s;
+  --tran-0-3: 0.3s;
+  --tran-0-5: 0.5s;
+}
+
+/* Font Small Screen 968px */
+@media screen and (max-width: 990px) {
+  :root {
+    --g-font: 3.4rem;
+    --h1-font: 2.4rem;
+    --h2-font: 2rem;
+    --h3-font: 1.8rem;
+    --h4-font: 1.6rem;
+    --normal-font: 1.5rem;
+    --p-font: 1.3rem;
+    --pp-font: 1.2rem;
+  }
+}
+
+/* Pre-CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+button,
+input {
+  font-family: var(--body-font);
+  font-size: var(--normal-font);
+  font-weight: var(--font-regular);
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  background-color: var(--cor-branca);
+}
