@@ -1,77 +1,79 @@
-# 🌐 Arena Saúde e Lazer
-  Site institucional da Arena Saúde e Lazer, desenvolvido com HTML, CSS e JavaScript. Responsivo, moderno e focado na apresentação dos serviços da empresa nas áreas de educação, saúde e lazer.
+# 🌐 Arena Saúde & Lazer
 
-Website institucional da empresa **Arena Saúde e Lazer**, que oferece soluções integradas nas áreas de **educação, saúde e lazer**. O site foi desenvolvido com foco em **design responsivo**, **performance** e **acessibilidade**, utilizando tecnologias como **HTML**, **CSS** e **JavaScript** puro.
+Institutional website for **Arena Saúde e Lazer**, developed using **HTML**, **CSS** and **JavaScript**.  
+Responsive, modern and focused on presenting the company’s services in the areas of **education, health and leisure**.
 
-![Preview do site](./images/preview.png) 
+This project represents the official website of **Arena Saúde e Lazer**, a company that offers integrated solutions in **education, health and leisure**.  
+The website was built with a focus on **responsive design**, **performance**, and **accessibility**, using **vanilla HTML, CSS and JavaScript**.
 
----
-
-## 🚀 Funcionalidades
-
-- ✅ Layout moderno e responsivo
-- ✅ Apresentação clara dos serviços
-- ✅ Formulário de contato funcional com integração via FormSubmit
-- ✅ Efeitos visuais com ScrollReveal.js
-- ✅ Otimizado para dispositivos móveis
+![Website preview](./images/preview.png)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Features
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
-- ScrollReveal.js
-- FormSubmit (para envio de e-mail sem backend)
-
----
-
-## 📱 Responsividade
-
-O site é responsivo e adaptado para:
-
-- 📱 Celulares
-- 💻 Notebooks
-- 🖥️ Telas grandes
+- ✅ Modern and responsive layout  
+- ✅ Clear presentation of services  
+- ✅ Functional contact form integrated with FormSubmit  
+- ✅ Visual effects using ScrollReveal.js  
+- ✅ Optimized for mobile devices  
 
 ---
 
-## ✉️ Como usar o formulário de contato
+## 🛠️ Technologies Used
 
-O formulário foi integrado com o [FormSubmit](https://formsubmit.co/), permitindo o envio de mensagens diretamente para o e-mail da empresa **sem a necessidade de backend**.
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- ScrollReveal.js  
+- FormSubmit (email sending without backend)
 
-> ⚠️ **Para funcionar corretamente, substitua o e-mail no atributo `action` do formulário por um e-mail real.**
+---
+
+## 📱 Responsiveness
+
+The website is fully responsive and adapted for:
+
+- 📱 Mobile devices  
+- 💻 Laptops  
+- 🖥️ Large screens  
+
+---
+
+## ✉️ How to use the contact form
+
+The contact form is integrated with [FormSubmit](https://formsubmit.co/), allowing messages to be sent directly to the company’s email **without the need for a backend**.
+
+> ⚠️ **To work properly, replace the email address in the form `action` attribute with a real email address.**
 
 ```html
-<form action="https://formsubmit.co/seuemail@exemplo.com" method="POST">
+<form action="https://formsubmit.co/youremail@example.com" method="POST">
 ```
 
----
-
-## 📁 Como rodar o projeto
-**1. Clone o repositório:**
+## 📁 How to run the project
+**1. Clone the repository:**
 git clone https://github.com/seuusuario/arena-saude-lazer.git
 
-**2.Abra o arquivo index.html em seu navegador.**
+**2. Open the index.html file in your browser.**
 
 ---
 
-## 📸 Imagens e Ilustrações
-Todas as imagens utilizadas pertencem à empresa ou são livres para uso.
+## 📸 Images and Illustrations
+All images used belong to the company or are free for use.
 
 ---
 
-## 📌 Status do Projeto
-✅ Concluído — novas melhorias e seções podem ser adicionadas no futuro.
+## 📌 Project Status
+✅ Completed — new improvements and sections may be added in the future.
 
 ---
 
-## 🤝 Contribuições
-Este projeto foi feito para fins de aprendizado e prática. Sugestões e contribuições são sempre bem-vindas!
+## 🤝 Contributions
+This project was created for learning and practice purposes.
+Suggestions and contributions are always welcome!
 
 ---
 
-## 🧠 Autores
-> *Desenvolvido por Alessandra Brenda Santos | Gabriel Silva | Kamilly Seara*
+## 🧠 Authors
+> *Developed by Alessandra Brenda Santos | Gabriel Silva | Kamilly Seara*
 
