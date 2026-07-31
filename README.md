@@ -51,7 +51,7 @@ The contact form uses [FormSubmit](https://formsubmit.co/) to send messages dire
 ## 📁 Running the Project Locally
 
 ```bash
-git clone https://github.com/KamSeara/arena-saude-lazer.git
+git clone https://github.com/KamSeara/arena-saude-lazer-landing-page.git
 ```
 
 Then simply open `index.html` in your browser — no build step or dependencies needed.
