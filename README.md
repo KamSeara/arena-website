@@ -1,10 +1,6 @@
 # 🌐 Arena Saúde & Lazer
 
-Institutional website for **Arena Saúde e Lazer**, developed using **HTML**, **CSS** and **JavaScript**.  
-Responsive, modern and focused on presenting the company’s services in the areas of **education, health and leisure**.
-
-This project represents the official website of **Arena Saúde e Lazer**, a company that offers integrated solutions in **education, health and leisure**.  
-The website was built with a focus on **responsive design**, **performance**, and **accessibility**, using **vanilla HTML, CSS and JavaScript**.
+Official institutional website for **Arena Saúde & Lazer**, a company offering integrated solutions in **education, health, and leisure**. Built with **HTML**, **CSS**, and **vanilla JavaScript**, with a focus on responsive design, performance, and accessibility.
 
 ![Website preview](./images/preview.png)
 
@@ -12,68 +8,74 @@ The website was built with a focus on **responsive design**, **performance**, an
 
 ## 🚀 Features
 
-- ✅ Modern and responsive layout  
-- ✅ Clear presentation of services  
-- ✅ Functional contact form integrated with FormSubmit  
-- ✅ Visual effects using ScrollReveal.js  
-- ✅ Optimized for mobile devices  
+- ✅ Modern, responsive layout
+- ✅ Clear presentation of the company's services
+- ✅ Functional contact form powered by FormSubmit
+- ✅ Scroll-triggered animations with ScrollReveal.js
+- ✅ Optimized for mobile devices
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
-- ScrollReveal.js  
-- FormSubmit (email sending without backend)
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- ScrollReveal.js
+- FormSubmit (form submission with no backend required)
 
 ---
 
 ## 📱 Responsiveness
 
-The website is fully responsive and adapted for:
+Fully responsive across:
 
-- 📱 Mobile devices  
-- 💻 Laptops  
-- 🖥️ Large screens  
+- 📱 Mobile devices
+- 💻 Laptops
+- 🖥️ Large screens
 
 ---
 
-## ✉️ How to use the contact form
+## ✉️ Setting Up the Contact Form
 
-The contact form is integrated with [FormSubmit](https://formsubmit.co/), allowing messages to be sent directly to the company’s email **without the need for a backend**.
+The contact form uses [FormSubmit](https://formsubmit.co/) to send messages directly to the company's inbox, with no backend required.
 
-> ⚠️ **To work properly, replace the email address in the form `action` attribute with a real email address.**
+> ⚠️ **Before deploying, replace the placeholder email in the form's `action` attribute with a real address.**
 
 ```html
 <form action="https://formsubmit.co/youremail@example.com" method="POST">
 ```
 
-## 📁 How to run the project
-**1. Clone the repository:**
-git clone https://github.com/seuusuario/arena-saude-lazer.git
+---
 
-**2. Open the index.html file in your browser.**
+## 📁 Running the Project Locally
+
+```bash
+git clone https://github.com/seuusuario/arena-saude-lazer.git
+```
+
+Then simply open `index.html` in your browser — no build step or dependencies needed.
 
 ---
 
-## 📸 Images and Illustrations
-All images used belong to the company or are free for use.
+## 📸 Images
+
+All images used belong to the company or are royalty-free.
 
 ---
 
 ## 📌 Project Status
-✅ Completed — new improvements and sections may be added in the future.
+
+✅ **Completed** — new sections and improvements may be added over time.
 
 ---
 
-## 🤝 Contributions
-This project was created for learning and practice purposes.
-Suggestions and contributions are always welcome!
+## 🤝 Contributing
+
+This project was built for learning and practice purposes. Suggestions and contributions are always welcome — feel free to open an issue or a pull request.
 
 ---
 
 ## 🧠 Authors
-> *Developed by Alessandra Brenda Santos | Gabriel Silva | Kamilly Seara*
 
+Developed by **Kamilly Seara**.
